@@ -15,7 +15,7 @@ const LogItem = ({ log }) => {
         <span className='black-text'> - {log.rating}/10</span>
         <br />
         <span className='grey-text'>
-          <span className='black-text'></span>Last updated on <Moment format='MMMM Do YYYY, h:mm:ss a'/>{log.date}
+          <span className='black-text'></span>Last updated on <Moment format='MMMM Do YYYY, h:mm:ss a'>{log.date}</Moment>
         </span>
         <a href="#!" className="secondary-content">
             <i className="material-icons grey-text">delete</i>
