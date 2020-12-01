@@ -1,0 +1,25 @@
+{
+  "logs": [
+    {
+      "id": "1",
+      "name": "Louis'",
+      "location": "Queens",
+      "rating" : "8",
+      "service": "Good",
+      "price": "fair",
+      "comments": "Could have been quicker",
+      "return" : true
+    },
+    {
+      "name": "Arminos",
+      "cuisine": "Italian",
+      "location": "London",
+      "rating" : "8",
+      "service": "Good",
+      "price": "expensive",
+      "comments": "Saw a rat under the table",
+      "id": "jq1LpJu",
+      "return" : false
+    }
+  ]
+}
