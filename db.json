@@ -8,7 +8,7 @@
       "service": "Good",
       "price": "fair",
       "comments": "Could have been quicker",
-      "return" : true
+      "toreturn" : true
     },
     {
       "name": "Arminos",
@@ -19,7 +19,7 @@
       "price": "expensive",
       "comments": "Saw a rat under the table",
       "id": "jq1LpJu",
-      "return" : false
+      "toreturn" : false
     }
   ]
 }
